@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-This project is an AI-based movie recommender system that uses a dataset from Kaggle to suggest movies based on similarity. The recommendations are generated using various algorithms and the results are displayed in a Streamlit app.
+This project is an AI-based movie recommender system that uses a dataset from Kaggle to suggest movies based on similarity. The recommendations are generated and displayed in a Streamlit app.
 
 ## Usage
 
